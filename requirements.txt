@@ -1,1 +1,7 @@
 selenium
+pychrome
+more_itertools
+subprocess
+time
+os 
+requests
